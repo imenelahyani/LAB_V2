@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "id": "123",
+      "cin": "12345",
+      "name": "imene",
+      "createdDate": "12/12/22",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+      "type": "teacher"
+    },
+    {
+      "id": "1234",
+      "cin": "1235",
+      "name": "sabrine",
+      "createdDate": "12/12/22",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+      "type": "student"
+    },
+    {
+      "id": "1235",
+      "cin": "1235",
+      "name": "manar",
+      "createdDate": "12/12/22",
+      "cv": "https://www.cdc.gov/polio/stop/pdf/stop-cv-format.pdf",
+      "type": "student"
+    }
+  ]
+}
